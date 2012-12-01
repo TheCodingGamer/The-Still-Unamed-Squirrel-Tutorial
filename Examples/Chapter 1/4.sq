@@ -1,0 +1,10 @@
+// Example 1.4
+
+{
+  local flubber  = "flubber"
+  local buttocks = "buttocks"
+  
+  funnyword <- flubber + buttocks
+}
+
+print(funnyword + "\n")

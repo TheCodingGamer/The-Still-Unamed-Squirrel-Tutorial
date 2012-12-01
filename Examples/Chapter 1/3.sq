@@ -1,0 +1,12 @@
+// Example 1.3
+
+// Normally statements can be written just like this. Since the newline at the
+// end makes Squirrel think the statment is over, you can't really write 
+// statements over more than one line.
+x <- 55
+
+// Or we can use just a semicolon.
+x <- 55;
+
+// Two for the price of one, grandma!
+x <- 55; x <-55
