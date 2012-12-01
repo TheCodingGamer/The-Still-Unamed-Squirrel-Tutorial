@@ -1,4 +1,4 @@
-#The Still Uname Squirrel Tutorial
+#The Still Unamed Squirrel Tutorial
 
 I'll keep things simple. This is a free tutorialish book about the squirrel programming language. You just read it and enjoy, okay?
 
