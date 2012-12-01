@@ -1,0 +1,19 @@
+// Example 1.2
+a <- "a"
+b <- "b"
+c <- "c"
+
+print(a + "\n")
+print(b + "\n")
+print(c + "\n")
+
+print("----------\n")
+
+a <- b
+b <- c 
+c <- "Lady Gaga"
+
+print(a + "\n")
+print(b + "\n")
+print(c + "\n")
+
