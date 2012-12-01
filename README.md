@@ -5,10 +5,10 @@ I'll keep things simple. This is a free tutorialish book about the squirrel prog
 ##Formats
 
 * PDF
-* Read It Online
+* [Read it here on GitHub](https://github.com/TheCodingGamer/The-Still-Unamed-Squirrel-Tutorial/wiki)
 
 #Feedback
-Feel free to send feedback here on Github by opening issues. You can report typos and other errors, as well as suggest rephrasals, and new sections, or just say hi. I like me some good constructive criticism.
+Feel free to send feedback here on GitHub by opening issues. You can report typos and other errors, as well as suggest rephrasals, and new sections, or just say hi. I like me some good constructive criticism.
 
 
 #License
